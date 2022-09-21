@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jith-Gsk
-- 👀 I’m interested in front end development
+- 👀 I’m Product Operations Specilaist, interested in front end development
 - 🌱 I’m currently learning javascript, react native
-- 💞️ I’m looking to collaborate on app development
+- 💞️ I’m looking to collaborate on Product development
 - 📫 How to reach me 
 
 <!---
